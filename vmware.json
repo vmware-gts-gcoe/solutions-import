@@ -1,0 +1,20 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"LiferayMysql.xml",
+                "exportedFileReadme":"LiferayMysql.xml.readme",
+                "importSectionHeader":"Liferay CMS with MySQL",
+                "exportedWithAppDVersion":6.0.1,
+                "optional":{
+                    "nextStepsMarkdownFile":"LiferayMysql.xml.md",
+                    "enableConsoleLogging":true,
+                    "exportedFileErrorReadme":"LiferayMysql.xml.error.readme"
+                }
+            }
+        }
+    }
+}
